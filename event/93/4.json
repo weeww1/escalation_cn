@@ -1,0 +1,6627 @@
+{
+  "FileName": "第 4 话",
+  "EventImages": [],
+  "StandImages": [
+    "stand_0407_8AEE967B_8AEE967B",
+    "stand_13_9085928588DF9195_8AEE967B",
+    "stand_0408_8AEE967B_8AEE967B",
+    "stand_4079_8AEE967B_8AEE967B",
+    "stand_12_9085928588DF9195_95F0",
+    "stand_058_8AEE967B_88A3",
+    "stand_5010_8AEE967B_8AEE967B",
+    "stand_0340_8AEE967B_88FA",
+    "stand_13_9085928588DF9195_89F7",
+    "stand_14_9085928588DF9195_88A3",
+    "stand_0407_8AEE967B_95F0",
+    "stand_0408_8AEE967B_835F8381815B8357",
+    "stand_058_8AEE967B_937B",
+    "stand_0408_8AEE967B_8BC1",
+    "stand_12_9085928588DF9195_8AEE967B",
+    "stand_14_9085928588DF9195_8AEE967B",
+    "stand_14_9085928588DF9195_8AEC",
+    "stand_0340_8AEE967B_8AEE967B",
+    "stand_0407_8AEE967B_8BC1",
+    "stand_0340_8AEE967B_8AEC",
+    "stand_0407_8AEE967B_8FC6",
+    "stand_14_9085928588DF9195_82B782CB",
+    "stand_14_9085928588DF9195_8AE197CD",
+    "stand_13_9085928588DF9195_8BC1",
+    "stand_14_9085928588DF9195_8BC1",
+    "stand_0407_8AEE967B_937B",
+    "stand_5090_8AEE967B_8AEE967B",
+    "stand_0408_8AEE967B_937B",
+    "stand_0408_8BAD89BB8CF889CA_937B",
+    "stand_0408_8AEE967B_8AEC",
+    "stand_14_9085928588DF9195_937B",
+    "stand_0340_8AEE967B_88A3",
+    "stand_0408_8AEE967B_88A3",
+    "stand_5093_8AEE967B_8AEE967B",
+    "stand_0406_8AEE967B_835F8381815B8357",
+    "stand_5091_8AEE967B_8AEE967B",
+    "stand_5088_8AEE967B_8AEE967B",
+    "stand_0406_8AEE967B_937B",
+    "stand_5264_8AEE967B_8AEE967B",
+    "stand_0406_8BAD89BB8CF889CA_8BC1",
+    "stand_0406_8AEE967B_8BC1",
+    "stand_0406_8AEE967B_8AEE967B"
+  ],
+  "StandFullImages": [],
+  "BackImages": [
+    "94778C69_94C497708145905897D1_928B",
+    "94778C69_8A5881458A4382CC89C6_928B",
+    "94778C69_93C18EEA8145949A94AD",
+    "94778C69_94C4977081458BF3_928B",
+    "94778C69_94C4977081458BF3_928B_88D995CF",
+    "94778C69_8A58814593638EC9836F835892E2_928B",
+    "94778C69_94C4977081458BF3_975B",
+    "94778C69_8AEE926E814588E396B18EBA"
+  ],
+  "Musics": [
+    "89B98A79_93FA8FED",
+    "89B98A79_837383938360",
+    "89B98A79_905E96CA96DA8252",
+    "89B98A79_94DF9173",
+    "89B98A79_836F8367838B"
+  ],
+  "Sounds": [
+    "8CF889CA89B9_95E082AD_91908CB4",
+    "8CF889CA89B9_82BF815B82F1",
+    "8CF889CA89B9_82DE82C982E3",
+    "8CF889CA89B9_82AA82CE82C1",
+    "8CF889CA89B9_95E082AB8B8E82E9",
+    "8CF889CA89B9_96829640",
+    "8CF889CA89B9_8CDB93AE",
+    "8CF889CA89B9_8368838D8368838D",
+    "8CF889CA89B9_908582A982E78FE382AA82E9",
+    "8CF889CA89B9_949A94AD984191B18251",
+    "8CF889CA89B9_88EA95E0",
+    "8CF889CA89B9_8357838383938376",
+    "8CF889CA89B9_92D5949782E88D8782A2_825189F1",
+    "8CF889CA89B9_8E618C82",
+    "8CF889CA89B9_949A94AD",
+    "8CF889CA89B9_97AD82DF",
+    "8CF889CA89B9_8E618C828BAD",
+    "8CF889CA89B9_914D8CF5",
+    "8CF889CA89B9_91E5949A94AD",
+    "838B815B83768CF889CA89B9_926E96C282E8",
+    "8CF889CA89B9_96829640_88C5",
+    "8CF889CA89B9_926E96C282E88FAC",
+    "8CF889CA89B9_908582C9978E82BF82E9",
+    "8CF889CA89B9_838983438374838B",
+    "8CF889CA89B9_93478FC196C5",
+    "8CF889CA89B9_8FD58C829467",
+    "838B815B83768CF889CA89B9_9792",
+    "8CF889CA89B9_9285926E"
+  ],
+  "Voices": [
+    "10026_1231",
+    "10026_1232",
+    "10026_1233",
+    "10026_1234",
+    "10026_1235",
+    "10026_1236",
+    "10026_1237",
+    "10026_1238",
+    "10026_1239",
+    "10026_1240",
+    "10026_1241",
+    "10026_1242",
+    "10026_1243",
+    "10026_1244",
+    "10026_1245",
+    "10026_1246",
+    "10026_1247",
+    "10026_1248",
+    "10026_1249",
+    "10026_1250",
+    "10026_1251",
+    "10026_1252",
+    "10026_1253",
+    "10026_1254",
+    "10026_1255",
+    "10026_1256",
+    "10026_1257",
+    "10026_1258"
+  ],
+  "Methods": [
+    {
+      "BackImage": "94778C69_94C497708145905897D1_928B",
+      "Motion": "None",
+      "Time": "0.75",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_95E082AD_91908CB4",
+      "Method": "PlaySound"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "我们顺利地在我体内继续前进。\n在前方……",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0407_8AEE967B_8AEE967B",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のエスカ・オニキス",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_13_9085928588DF9195_8AEE967B",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "加古野ヒビキ",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "奥妮克丝",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1231",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「……有什么东西」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "萨菲雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「能听见人的声音」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0408_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "盛夏のエスカレイヤー",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "艾斯卡蕾雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1232",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「人……不，是细胞？在来来往往……\n　要不要顺路过去看看？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "右ワイプ",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Motion": "WipeRight",
+      "Time": "0.5",
+      "Method": "HideBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Music": "89B98A79_93FA8FED",
+      "FadeTime": "0",
+      "Method": "PlayMusic"
+    },
+    {
+      "BackImage": "94778C69_8A5881458A4382CC89C6_928B",
+      "Motion": "WipeLeft",
+      "Time": "0.5",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_4079_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "戦部トキサダ影",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_4079_8AEE967B_8AEE967B",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "戦部トキサダ影",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_4079_8AEE967B_8AEE967B",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "戦部トキサダ影",
+      "Method": "ShowStand"
+    },
+    {
+      "Position": "Left",
+      "Motion": "移動",
+      "Option1": "-100",
+      "Option2": "0",
+      "Option3": "0",
+      "Method": "MotionStand"
+    },
+    {
+      "Position": "Right",
+      "Motion": "移動",
+      "Option1": "100",
+      "Option2": "0",
+      "Option3": "0",
+      "Method": "MotionStand"
+    },
+    {
+      "Stand1": "0",
+      "Stand2": "1",
+      "Stand3": "0",
+      "Method": "TalkCharacter"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "店员时贞A",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「欢迎光临——」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "1",
+      "Stand2": "0",
+      "Stand3": "0",
+      "Method": "TalkCharacter"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "店员时贞B",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「请进——\n　找个空位坐吧——」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "0",
+      "Stand2": "0",
+      "Stand3": "1",
+      "Method": "TalkCharacter"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "店员时贞C",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「哦，小妹妹很可爱嘛。\n　我等会儿休息，要不要一起去附近走走？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "ClearTalkCharacter"
+    },
+    {
+      "Sound": "8CF889CA89B9_82BF815B82F1",
+      "Method": "PlaySound"
+    },
+    {
+      "StandImage": "stand_12_9085928588DF9195_95F0",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "春雛うらら",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_058_8AEE967B_88A3",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ＦＭ７７",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「我的脾脏……\n　变成了夏日轻浮男打工的地方……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "托帕兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「素材不就是长官吗」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "FM77",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「还系着腰带……怎么看都只能是你」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "LBackImage": "94778C69_8A5881458A4382CC89C6_928B",
+      "RBackImage": "94778C69_8AEE926E814588E396B18EBA",
+      "LOffset": "320",
+      "ROffset": "320",
+      "Motion": "None",
+      "Time": "0.75",
+      "Method": "ShowDoubleBackgroundOffset"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_5010_8AEE967B_8AEE967B",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "高円寺さやか",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "沙由香",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "『脾脏是淋巴细胞和巨噬细胞聚集的地方，\n　也是储存红细胞的仓库。\n　拟人化后或许就会变成这种景象』",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "1",
+      "Stand2": "1",
+      "Stand3": "1",
+      "Method": "TalkCharacter"
+    },
+    {
+      "BackImage": "94778C69_8A5881458A4382CC89C6_928B",
+      "Motion": "None",
+      "Time": "0.75",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_4079_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "戦部トキサダ影",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "店员时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「这是菜单。\n　还有会让人醉的物质，你能喝酒吗？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "ClearTalkCharacter"
+    },
+    {
+      "StandImage": "stand_0340_8AEE967B_88FA",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Front",
+      "GroupId": "真夏のエスカ・ルビー",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_13_9085928588DF9195_89F7",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "加古野ヒビキ",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "露比",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「酒、酒的话，我、我不太……！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "萨菲雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「等……靠、靠得太近了……！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_12_9085928588DF9195_95F0",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "春雛うらら",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_14_9085928588DF9195_88A3",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "雪城エリー",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "托帕兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「他们到底在干什么啊……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "阿梅兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「也许不要在这里待太久比较好」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0407_8AEE967B_95F0",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のエスカ・オニキス",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "奥妮克丝",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1233",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「话说……现在是休息的时候吗？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「一边收集情报一边歇口气没关系。\n　这件事不会马上结束」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0407_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のエスカ・オニキス",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "奥妮克丝",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1234",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「嗯……时贞这么说的话」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "右ワイプ",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Motion": "WipeRight",
+      "Time": "0.5",
+      "Method": "HideBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "BackImage": "94778C69_8A5881458A4382CC89C6_928B",
+      "Motion": "WipeLeft",
+      "Time": "0.5",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0408_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "盛夏のエスカレイヤー",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "金发店员",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「哟，挺合身嘛」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_82DE82C982E3",
+      "Method": "PlaySound"
+    },
+    {
+      "StandImage": "stand_0408_8AEE967B_835F8381815B8357",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "盛夏のエスカレイヤー",
+      "Method": "ShowStand"
+    },
+    {
+      "Position": "Center",
+      "Name": "恥",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Position": "Center",
+      "ShakePixel": "10",
+      "Time": "0.5",
+      "Method": "ShakeStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "艾斯卡蕾雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1235",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「呀啊！？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "一个店员与艾斯卡蕾雅擦肩而过时，\n伸手摸了她的屁股，\n随后就那样消失在人群里。",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Center",
+      "Name": "",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_82AA82CE82C1",
+      "Method": "PlaySound"
+    },
+    {
+      "StandImage": "stand_058_8AEE967B_937B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ＦＭ７７",
+      "Method": "ShowStand"
+    },
+    {
+      "Position": "Center",
+      "Name": "怒り",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "ShakePixel": "20",
+      "Time": "0.4",
+      "Method": "Shake"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "FM77",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「喂！刚才！你对姐姐大人做什么！\n　已经越过底线了！！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「呜啊，别、别冲我来！\n　还有别揪我的衣领……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Center",
+      "Name": "",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0408_8AEE967B_8BC1",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "盛夏のエスカレイヤー",
+      "Method": "ShowStand"
+    },
+    {
+      "Position": "Center",
+      "Name": "点々",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "艾斯卡蕾雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1236",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "（刚才的声音……）",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Center",
+      "Name": "",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_12_9085928588DF9195_8AEE967B",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "春雛うらら",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_14_9085928588DF9195_8AEE967B",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "雪城エリー",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "托帕兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「话说，炒面、刨冰什么的\n　摆得到处都是……\n　这些我们能吃吗？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "沙由香",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "『摄取体内的物质\n　似乎不会造成什么危害。\n　不过几乎也补充不了营养』",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_14_9085928588DF9195_8AEC",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "雪城エリー",
+      "Method": "ShowStand"
+    },
+    {
+      "Position": "Right",
+      "Name": "ビックリ",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "阿梅兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「叮！也就是说，完全不用在意\n　吃太多的问题？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Right",
+      "Name": "",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "StandImage": "stand_12_9085928588DF9195_95F0",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "春雛うらら",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "托帕兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「你什么时候变成贪吃人设了……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "阿梅兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「如果平时一直在意的事\n　突然不必在意了，\n　情绪当然会高涨吧？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0340_8AEE967B_8AEE967B",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のエスカ・ルビー",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_0407_8AEE967B_8AEE967B",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Front",
+      "GroupId": "真夏のエスカ・オニキス",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "露比",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「我去那边点餐吧。\n　想吃什么？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0407_8AEE967B_8BC1",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Front",
+      "GroupId": "真夏のエスカ・オニキス",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "奥妮克丝",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1237",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「诶。呃……什么都可以。\n　我没有讨厌的食物……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0340_8AEE967B_8AEC",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のエスカ・ルビー",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "露比",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「真不愧是你，真好养活。\n　大家应该也都没问题，\n　那我随便点喽」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_95E082AB8B8E82E9",
+      "Method": "PlaySound"
+    },
+    {
+      "Time": "右",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Right",
+      "Motion": "Right",
+      "Time": "0.5",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0407_8AEE967B_8FC6",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "1",
+      "Z": "Middle",
+      "GroupId": "真夏のエスカ・オニキス",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "奥妮克丝",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1238",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「呼…………」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "右ワイプ",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Motion": "WipeRight",
+      "Time": "0.5",
+      "Method": "HideBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "BackImage": "94778C69_8A5881458A4382CC89C6_928B",
+      "Motion": "WipeLeft",
+      "Time": "0.5",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_13_9085928588DF9195_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "加古野ヒビキ",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "萨菲雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「少头领，我大致打听完了」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「辛苦你了，萨菲雅」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "萨菲雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「反正早已习惯这种事。\n　我问了一圈……\n　这里似乎正在遭到猛烈侵蚀」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「嗯……是疾病吗？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "萨菲雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「这一点应该可以否定。\n　他们说这明显不是正常的活动」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_14_9085928588DF9195_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "雪城エリー",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "阿梅兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「就算是疾病，也一定有什么\n　不正常的东西在加速病变」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「是啊……嗯？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "正当我们陷入思考时，\n一个身穿店员服的我走了过来。",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "1",
+      "Stand2": "1",
+      "Stand3": "1",
+      "Method": "TalkCharacter"
+    },
+    {
+      "StandImage": "stand_4079_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "Right",
+      "Time": "0.5",
+      "Z": "Middle",
+      "GroupId": "戦部トキサダ影",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "店员时贞C",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「在聊天？怎么样，小姐。\n　刨冰很好吃哦，要不要来一份？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "1",
+      "Stand2": "0",
+      "Stand3": "0",
+      "Method": "TalkCharacter"
+    },
+    {
+      "StandImage": "stand_14_9085928588DF9195_82B782CB",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "雪城エリー",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_4079_8AEE967B_8AEE967B",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "戦部トキサダ影",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "阿梅兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「够了，快走快走。\n　长着长官的脸，让人不好意思冷言冷语，\n　真麻烦」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "0",
+      "Stand2": "0",
+      "Stand3": "1",
+      "Method": "TalkCharacter"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "店员时贞C",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「别这样嘛。别想那些麻烦事，\n　来杯酒如何？这个很甜……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "1",
+      "Stand2": "0",
+      "Stand3": "0",
+      "Method": "TalkCharacter"
+    },
+    {
+      "Sound": "8CF889CA89B9_96829640",
+      "Method": "PlaySound"
+    },
+    {
+      "StandImage": "stand_14_9085928588DF9195_8AE197CD",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "雪城エリー",
+      "Method": "ShowStand"
+    },
+    {
+      "InTime": "0.5",
+      "OutTime": "0.5",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlash"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "阿梅兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「够了！向后转！就这样一直走！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "0",
+      "Stand2": "0",
+      "Stand3": "1",
+      "Method": "TalkCharacter"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "店员时贞C",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「……是、是…………」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "右",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Right",
+      "Motion": "Right",
+      "Time": "0.5",
+      "Method": "HideStand"
+    },
+    {
+      "Method": "ClearTalkCharacter"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "纠缠不休、不断搭讪的我\n被阿梅兹瞪得僵在原地，\n随后像机器人一样走远了。",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "（安息吧……）",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_13_9085928588DF9195_8AEE967B",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "加古野ヒビキ",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_14_9085928588DF9195_8AEE967B",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "雪城エリー",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "萨菲雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「是魔眼的力量吗」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "阿梅兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「只是用D2能量再现出来的版本。\n　算是顺便磨合一下……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "FadeTime": "1",
+      "Method": "StopMusic"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Sound": "8CF889CA89B9_8CDB93AE",
+      "Method": "PlaySound"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "店员时贞C",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「呜、呜啊啊啊啊啊！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_13_9085928588DF9195_8BC1",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "加古野ヒビキ",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_14_9085928588DF9195_8BC1",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "雪城エリー",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "萨菲雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「！？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "阿梅兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「诶，怎么了！？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "突然，已经走远的店员版的我痛苦挣扎，\n倒在了地上。",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "萨菲雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「阿梅兹！？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "阿梅兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「不……不是我！\n　我才没用会造成这种结果的力量……\n　等等，你没事吧……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Music": "89B98A79_837383938360",
+      "FadeTime": "0",
+      "Method": "PlayMusic"
+    },
+    {
+      "Sound": "8CF889CA89B9_82AA82CE82C1",
+      "Method": "PlaySound"
+    },
+    {
+      "StandImage": "stand_0407_8AEE967B_937B",
+      "Position": "Center",
+      "Motion": "Right",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のエスカ・オニキス",
+      "Method": "ShowStand"
+    },
+    {
+      "ShakePixel": "10",
+      "Time": "0.5",
+      "Method": "Shake"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "奥妮克丝",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1239",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「不行，退后！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Motion": "None",
+      "Time": "0.75",
+      "Method": "HideBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_8368838D8368838D",
+      "Method": "PlaySound"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "冲出来的奥妮克丝挡在中间。\n而在她前方，那个男人正不断下沉……\n仿佛被拖入沼泽般，逐渐被吸了进去。",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "店员时贞C？",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「啊咕咕、唔呃呃……！\n　哦咕、呜哦哦哦……！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.5",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlashIn"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "BackImage": "94778C69_8A5881458A4382CC89C6_928B",
+      "Motion": "None",
+      "Time": "0",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_908582A982E78FE382AA82E9",
+      "Method": "PlaySound"
+    },
+    {
+      "StandImage": "stand_5090_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "Down",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "鬼門縛士",
+      "Method": "ShowStand"
+    },
+    {
+      "Position": "Center",
+      "r": "0",
+      "g": "0",
+      "b": "0",
+      "Time": "0",
+      "Method": "MulStand"
+    },
+    {
+      "ShakePixel": "20",
+      "Time": "1",
+      "Method": "Shake"
+    },
+    {
+      "Time": "0.5",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlashOut"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Center",
+      "r": "254",
+      "g": "254",
+      "b": "254",
+      "Time": "1",
+      "Method": "MulStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Center",
+      "r": "255",
+      "g": "255",
+      "b": "255",
+      "Time": "0",
+      "Method": "MulStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "鬼门缚士时贞",
+      "Name2": "鬼门缚士",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「…………呶呵呵呵！\n　鬼门缚士时贞，参上！！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "（那是……！）",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "鬼门缚士时贞",
+      "Name2": "鬼门缚士",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「喝啊啊啊啊啊！！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_949A94AD984191B18251",
+      "Method": "PlaySound"
+    },
+    {
+      "ShakePixel": "10",
+      "Time": "0.4",
+      "Method": "Shake"
+    },
+    {
+      "InTime": "0.2",
+      "OutTime": "0.2",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlash"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "ShakePixel": "20",
+      "Time": "0.8",
+      "Method": "Shake"
+    },
+    {
+      "InTime": "0.4",
+      "OutTime": "0.4",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlash"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "1",
+      "Stand2": "0",
+      "Stand3": "0",
+      "Method": "TalkCharacter"
+    },
+    {
+      "StandImage": "stand_4079_8AEE967B_8AEE967B",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "戦部トキサダ影",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_4079_8AEE967B_8AEE967B",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "戦部トキサダ影",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "细胞时贞A",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「呜、呜哇，快逃！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "0",
+      "Stand2": "0",
+      "Stand3": "1",
+      "Method": "TalkCharacter"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "细胞时贞B",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「是病毒吗！？快叫白细胞！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "ClearTalkCharacter"
+    },
+    {
+      "Sound": "8CF889CA89B9_88EA95E0",
+      "Method": "PlaySound"
+    },
+    {
+      "StandImage": "stand_0408_8AEE967B_937B",
+      "Position": "Right",
+      "Motion": "Left",
+      "Time": "0.25",
+      "Z": "Front",
+      "GroupId": "盛夏のエスカレイヤー",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_058_8AEE967B_937B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Back",
+      "GroupId": "ＦＭ７７",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_0407_8AEE967B_937B",
+      "Position": "Left",
+      "Motion": "Right",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のエスカ・オニキス",
+      "Method": "ShowStand"
+    },
+    {
+      "ShakePixel": "10",
+      "Time": "0.5",
+      "Method": "Shake"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "艾斯卡蕾雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1240",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「我们来打倒他！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「拜托了！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "艾斯卡蕾雅、FM77与奥妮克丝\n冲向敌人。远处，露比等人正迅速\n疏散其他的我。",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_5090_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "鬼門縛士",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "鬼门缚士时贞",
+      "Name2": "鬼门缚士",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「呶哈哈哈哈哈！\n　区区脾脏，看我把它砸烂……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_8357838383938376",
+      "Method": "PlaySound"
+    },
+    {
+      "Name": "集中線",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffectBack"
+    },
+    {
+      "StandImage": "stand_0408_8AEE967B_937B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "盛夏のエスカレイヤー",
+      "Method": "ShowStand"
+    },
+    {
+      "ShakePixel": "10",
+      "Time": "0.5",
+      "Method": "Shake"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "艾斯卡蕾雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1241",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「到此为止！呀啊啊啊！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_5090_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "鬼門縛士",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "鬼门缚士时贞",
+      "Name2": "鬼门缚士",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「嗯？你是什么人……！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_92D5949782E88D8782A2_825189F1",
+      "Method": "PlaySound"
+    },
+    {
+      "Name": "刺突／右",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffect"
+    },
+    {
+      "StandImage": "stand_0408_8AEE967B_937B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.1",
+      "Z": "Middle",
+      "GroupId": "盛夏のエスカレイヤー",
+      "Method": "ShowStand"
+    },
+    {
+      "ShakePixel": "10",
+      "Time": "0.4",
+      "Method": "Shake"
+    },
+    {
+      "InTime": "0.2",
+      "OutTime": "0.2",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlash"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "斬撃",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffect"
+    },
+    {
+      "StandImage": "stand_5090_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.1",
+      "Z": "Middle",
+      "GroupId": "鬼門縛士",
+      "Method": "ShowStand"
+    },
+    {
+      "ShakePixel": "20",
+      "Time": "0.8",
+      "Method": "Shake"
+    },
+    {
+      "InTime": "0.4",
+      "OutTime": "0.4",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlash"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_058_8AEE967B_937B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ＦＭ７７",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "FM77",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「姐姐大人！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffectBack"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_8E618C82",
+      "Method": "PlaySound"
+    },
+    {
+      "Name": "刺突／右",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffect"
+    },
+    {
+      "StandImage": "stand_5090_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "鬼門縛士",
+      "Method": "ShowStand"
+    },
+    {
+      "Position": "Center",
+      "Name": "ビックリ",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "ShakePixel": "20",
+      "Time": "1",
+      "Method": "Shake"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "鬼门缚士时贞",
+      "Name2": "鬼门缚士",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「呜哦！卑鄙……！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Center",
+      "Name": "",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "右ワイプ",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Motion": "WipeRight",
+      "Time": "0.3",
+      "Method": "HideBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "BackImage": "94778C69_8A5881458A4382CC89C6_928B",
+      "Motion": "WipeLeft",
+      "Time": "0.3",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "集中線",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffectBack"
+    },
+    {
+      "StandImage": "stand_0407_8AEE967B_937B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のエスカ・オニキス",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "FM77从艾斯卡蕾雅身后绕向左侧，\n攻击怪忍的视觉死角；奥妮克丝又从右侧包抄，\n架起了她的虾型武器。",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "奥妮克丝",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1242",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「沉下去……！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffectBack"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_949A94AD",
+      "Method": "PlaySound"
+    },
+    {
+      "Name": "爆発大",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffect"
+    },
+    {
+      "StandImage": "stand_5090_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "鬼門縛士",
+      "Method": "ShowStand"
+    },
+    {
+      "Position": "Center",
+      "Name": "ビックリはてな",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "ShakePixel": "20",
+      "Time": "1",
+      "Method": "Shake"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "鬼门缚士时贞",
+      "Name2": "鬼门缚士",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「咕哦哦哦！这、这是……！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Center",
+      "Name": "",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "光る／青／全体",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffect"
+    },
+    {
+      "Sound": "8CF889CA89B9_97AD82DF",
+      "Method": "PlaySound"
+    },
+    {
+      "StandImage": "stand_0408_8BAD89BB8CF889CA_937B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "盛夏のエスカレイヤー",
+      "Method": "ShowStand"
+    },
+    {
+      "Time": "100",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "r": "100",
+      "g": "100",
+      "b": "100",
+      "Time": "1.5",
+      "Method": "MulColorBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "艾斯卡蕾雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1243",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「Heat Summer！Escalation！！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "255",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "r": "255",
+      "g": "255",
+      "b": "255",
+      "Time": "0.3",
+      "Method": "MulColorBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_8E618C828BAD",
+      "Method": "PlaySound"
+    },
+    {
+      "Name": "斬撃",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffect"
+    },
+    {
+      "Name": "集中線",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffectBack"
+    },
+    {
+      "StandImage": "stand_5090_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "鬼門縛士",
+      "Method": "ShowStand"
+    },
+    {
+      "Position": "Center",
+      "Motion": "微動",
+      "Option1": "",
+      "Option2": "",
+      "Option3": "",
+      "Method": "MotionStand"
+    },
+    {
+      "ShakePixel": "20",
+      "Time": "1",
+      "Method": "Shake"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "鬼门缚士时贞",
+      "Name2": "鬼门缚士",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「咕哈、呜啊啊啊————！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "FadeTime": "2",
+      "Method": "StopMusic"
+    },
+    {
+      "Name": "",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffect"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_914D8CF5",
+      "Method": "PlaySound"
+    },
+    {
+      "ShakePixel": "10",
+      "Time": "1.5",
+      "Method": "Shake"
+    },
+    {
+      "Time": "1.5",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlashIn"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffectBack"
+    },
+    {
+      "Position": "Center",
+      "Motion": "",
+      "Option1": "",
+      "Option2": "",
+      "Option3": "",
+      "Method": "MotionStand"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0",
+      "Method": "HideStand"
+    },
+    {
+      "BackImage": "94778C69_93C18EEA8145949A94AD",
+      "Motion": "None",
+      "Time": "0",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_91E5949A94AD",
+      "Method": "PlaySound"
+    },
+    {
+      "ShakePixel": "20",
+      "Time": "1",
+      "Method": "Shake"
+    },
+    {
+      "Time": "0.5",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlashOut"
+    },
+    {
+      "Time": "1",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Motion": "None",
+      "Time": "0.75",
+      "Method": "HideBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "BackImage": "94778C69_8A5881458A4382CC89C6_928B",
+      "Motion": "None",
+      "Time": "0.75",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0408_8AEE967B_8AEC",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "盛夏のエスカレイヤー",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "艾斯卡蕾雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1244",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「正义必胜！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「呼，总算解决了吗……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Music": "89B98A79_905E96CA96DA8252",
+      "FadeTime": "0",
+      "Method": "PlayMusic"
+    },
+    {
+      "StandImage": "stand_13_9085928588DF9195_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "加古野ヒビキ",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "萨菲雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「少头领们也及时撤离了。\n　目前没有出现损失」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「嗯，辛苦了。不过这是……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_14_9085928588DF9195_937B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "雪城エリー",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "阿梅兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「……先说好，不是我干的哦？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「我知道。\n　不过这和刚才的渗出一样吗？\n　它吸收了我……或者说，吸收了细胞……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_058_8AEE967B_937B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ＦＭ７７",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "FM77",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「……是在收集什么东西吗。\n　为了弥补自身的不完整……之类的」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「……FM77？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "FM77",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「感觉这个世界里缺少了什么。\n　只是隐约有这种感觉」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_14_9085928588DF9195_937B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "雪城エリー",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "阿梅兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「…………是吗？\n　该怎么说呢，我只觉得这个世界已经\n　完全超出我的理解了……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0407_8AEE967B_8AEE967B",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Front",
+      "GroupId": "真夏のエスカ・オニキス",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_0340_8AEE967B_88A3",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のエスカ・ルビー",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "露比",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「奥妮克丝，你感觉到什么了吗？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "奥妮克丝",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1245",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「……嗯——……我不太明白」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_058_8AEE967B_937B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ＦＭ７７",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "FM77",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「什么嘛。相信我啦」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「我相信你」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "FM77",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「时贞总是对每个人都说好话。\n　你真的这样认为吗？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「不，这次我也确实有同感。\n　好像有什么……重要的东西缺失了。\n　我也有这种感觉……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "1",
+      "Stand2": "1",
+      "Stand3": "1",
+      "Method": "TalkCharacter"
+    },
+    {
+      "StandImage": "stand_4079_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "Right",
+      "Time": "0.5",
+      "Z": "Middle",
+      "GroupId": "戦部トキサダ影",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "店员时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「哎呀，得救了得救了」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "ClearTalkCharacter"
+    },
+    {
+      "StandImage": "stand_0407_8AEE967B_8AEE967B",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Front",
+      "GroupId": "真夏のエスカ・オニキス",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_058_8AEE967B_937B",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ＦＭ７７",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "FM77",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「嗯？什么，又来一个？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "奥妮克丝",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1246",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「不是，是刚才向露比她们搭话的店员……\n　应该是。大概」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "1",
+      "Stand2": "1",
+      "Stand3": "1",
+      "Method": "TalkCharacter"
+    },
+    {
+      "StandImage": "stand_4079_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "戦部トキサダ影",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "脾脏时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「没错。而我就是这座脾脏的\n　总负责人」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「是吗。\n　不过你也太轻浮了……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "脾脏时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「有吗？差不多就这样吧？\n　该轻松的时候，你也很轻松吧？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "ClearTalkCharacter"
+    },
+    {
+      "StandImage": "stand_12_9085928588DF9195_95F0",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "春雛うらら",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_058_8AEE967B_937B",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ＦＭ７７",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "托帕兹",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「嗯……的确……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "FM77",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「连搭讪这种事也算上的话，确实不稀奇」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「什么！？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "1",
+      "Stand2": "1",
+      "Stand3": "1",
+      "Method": "TalkCharacter"
+    },
+    {
+      "StandImage": "stand_4079_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "戦部トキサダ影",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "脾脏时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「人类本来就有各种不同的侧面。\n　而且一直皱着眉头，\n　事情也不会好转吧」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「唔……净说些像是我会说的话……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0408_8AEE967B_88A3",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "盛夏のエスカレイヤー",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "艾斯卡蕾雅",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1247",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「比起这个，其实我们……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_4079_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "戦部トキサダ影",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "脾脏时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「想让我协助你们，对吧」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「既然你明白，那就好说了。\n　希望你能与其他器官协调」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "脾脏时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「毕竟刚才那一幕就摆在眼前。\n　只靠这里也解决不了问题……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Method": "ClearTalkCharacter"
+    },
+    {
+      "FadeTime": "1",
+      "Method": "StopMusic"
+    },
+    {
+      "BackImage": "94778C69_94C4977081458BF3_928B",
+      "Motion": "WipeBottom",
+      "Time": "0.5",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "838B815B83768CF889CA89B9_926E96C282E8",
+      "Method": "PlayLoopSound"
+    },
+    {
+      "ShakePixel": "10",
+      "Time": "1",
+      "Method": "Shake"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "脾脏时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「怎么了……？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_96829640_88C5",
+      "Method": "PlaySound"
+    },
+    {
+      "Time": "1",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlashIn"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "BackImage": "94778C69_94C4977081458BF3_928B_88D995CF",
+      "Motion": "None",
+      "Time": "0.75",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "1",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlashOut"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "露比",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「天空！天空变成灰色了……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Motion": "None",
+      "Time": "0.75",
+      "Method": "HideBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffect"
+    },
+    {
+      "BackImage": "94778C69_8A5881458A4382CC89C6_928B",
+      "Motion": "None",
+      "Time": "0.75",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "1",
+      "Stand2": "1",
+      "Stand3": "1",
+      "Method": "TalkCharacter"
+    },
+    {
+      "StandImage": "stand_4079_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "Right",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "戦部トキサダ影",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "细胞时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「海啸从那边过来了——！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「怎么回事……！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "ClearTalkCharacter"
+    },
+    {
+      "StandImage": "stand_0407_8AEE967B_937B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のエスカ・オニキス",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "奥妮克丝",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1248",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「时贞，快趴下……！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「奥妮克丝……！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "r": "0",
+      "g": "0",
+      "b": "0",
+      "Time": "1",
+      "Method": "MulColorBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "StopLoopSound"
+    },
+    {
+      "Sound": "8CF889CA89B9_926E96C282E88FAC",
+      "Method": "PlaySound"
+    },
+    {
+      "Sound": "8CF889CA89B9_908582C9978E82BF82E9",
+      "Method": "PlaySound"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "最后的记忆，是我抱住了扑到身上的奥妮克丝。\n随后，我的意识便与浊流一起\n被冲走了。",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "……………………",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "…………",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Stand1": "1",
+      "Stand2": "1",
+      "Stand3": "1",
+      "Method": "TalkCharacter"
+    },
+    {
+      "Time": "255",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "r": "255",
+      "g": "255",
+      "b": "255",
+      "Time": "1",
+      "Method": "MulColorBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_4079_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "Down",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "戦部トキサダ影",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "脾脏时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「噗哈！怎么回事。\n　它们居然连海啸都能引发」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "脾脏时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「糟糕。他们也被冲走了……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_838983438374838B",
+      "Method": "PlaySound"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "ShakePixel": "20",
+      "Time": "0.5",
+      "Method": "Shake"
+    },
+    {
+      "InTime": "0.3",
+      "OutTime": "0.3",
+      "ColorR": "255",
+      "ColorG": "0",
+      "ColorB": "0",
+      "Method": "ScreenFlash"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "ClearTalkCharacter"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "脾脏时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「咕哈…………！？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Music": "89B98A79_94DF9173",
+      "FadeTime": "0",
+      "Method": "PlayMusic"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_5093_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "1",
+      "Z": "Middle",
+      "GroupId": "鬼門厄射",
+      "Method": "ShowStand"
+    },
+    {
+      "Position": "Center",
+      "r": "0",
+      "g": "0",
+      "b": "0",
+      "Time": "0",
+      "Method": "MulStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Center",
+      "r": "254",
+      "g": "254",
+      "b": "254",
+      "Time": "1",
+      "Method": "MulStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Center",
+      "r": "255",
+      "g": "255",
+      "b": "255",
+      "Time": "0",
+      "Method": "MulStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "鬼门厄射",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「呵呵……真是不走运……\n　脾脏的权能……就由吾收下了……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "脾脏时贞",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「唔、可……可恶……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "光る／全体",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffect"
+    },
+    {
+      "Sound": "8CF889CA89B9_93478FC196C5",
+      "Method": "PlaySound"
+    },
+    {
+      "InTime": "1",
+      "OutTime": "1",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlash"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "倒在地上的时贞逐渐消失，\n被吸入怪忍手中。",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffect"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "鬼门厄射",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「这样又得到一个……离成就更近一步了。\n　这具身体……将归我们所有……！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "FadeTime": "2",
+      "Method": "StopMusic"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Motion": "None",
+      "Time": "0.75",
+      "Method": "HideBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "255",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "r": "255",
+      "g": "255",
+      "b": "255",
+      "Time": "1",
+      "Method": "MulColorBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "BackImage": "94778C69_94C4977081458BF3_928B",
+      "Motion": "None",
+      "Time": "0.75",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "1",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Motion": "None",
+      "Time": "0.75",
+      "Method": "HideBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "BackImage": "94778C69_8A58814593638EC9836F835892E2_928B",
+      "Motion": "None",
+      "Time": "0.75",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Music": "89B98A79_837383938360",
+      "FadeTime": "0",
+      "Method": "PlayMusic"
+    },
+    {
+      "StandImage": "stand_0406_8AEE967B_835F8381815B8357",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のキクリ",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "菊理",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1249",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「糟了……接现力已经……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_5091_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Front",
+      "GroupId": "妖門狐司",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_5088_8AEE967B_8AEE967B",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ゲニン",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_5088_8AEE967B_8AEE967B",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ゲニン",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "妖门狐司",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「嗯？她停下来了……！\n　好机会，上！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_5091_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Back",
+      "GroupId": "妖門狐司",
+      "Method": "ShowStand"
+    },
+    {
+      "Position": "Left",
+      "Motion": "ポップ",
+      "Option1": "",
+      "Option2": "",
+      "Option3": "",
+      "Method": "MotionStand"
+    },
+    {
+      "Position": "Right",
+      "Motion": "ポップ",
+      "Option1": "",
+      "Option2": "",
+      "Option3": "",
+      "Method": "MotionStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "下忍",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「忍者——！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "集中線",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffectBack"
+    },
+    {
+      "StandImage": "stand_0406_8AEE967B_937B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のキクリ",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "菊理",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1250",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「别挡路……！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_8FD58C829467",
+      "Method": "PlaySound"
+    },
+    {
+      "StandImage": "stand_5088_8AEE967B_8AEE967B",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ゲニン",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_5088_8AEE967B_8AEE967B",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ゲニン",
+      "Method": "ShowStand"
+    },
+    {
+      "ShakePixel": "20",
+      "Time": "1",
+      "Method": "Shake"
+    },
+    {
+      "InTime": "0.3",
+      "OutTime": "0.3",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlash"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffectBack"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "200",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "r": "200",
+      "g": "100",
+      "b": "100",
+      "Time": "0.3",
+      "Method": "MulColorBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_8CDB93AE",
+      "Method": "PlaySound"
+    },
+    {
+      "StandImage": "stand_0406_8AEE967B_835F8381815B8357",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のキクリ",
+      "Method": "ShowStand"
+    },
+    {
+      "Position": "Center",
+      "Name": "ビックリ",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "ShakePixel": "10",
+      "Time": "1",
+      "Method": "Shake"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "菊理",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1251",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「…………！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Center",
+      "Name": "",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "菊理的身体猛然摇晃。\n下忍们趁机一拥而上……",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "集中線",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffectBack"
+    },
+    {
+      "StandImage": "stand_5264_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ぷぎまる",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "ToUpper"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "噗叽丸",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「噗叽————！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0406_8AEE967B_835F8381815B8357",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のキクリ",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "我再也无法坐视不管。\n心里只想着菊理，伸出了前肢。",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "FadeTime": "1",
+      "Method": "StopMusic"
+    },
+    {
+      "Sound": "8CF889CA89B9_914D8CF5",
+      "Method": "PlaySound"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "1.5",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlashIn"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffectBack"
+    },
+    {
+      "Time": "255",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "r": "255",
+      "g": "255",
+      "b": "255",
+      "Time": "0",
+      "Method": "MulColorBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0406_8BAD89BB8CF889CA_8BC1",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0",
+      "Z": "Middle",
+      "GroupId": "真夏のキクリ",
+      "Method": "ShowStand"
+    },
+    {
+      "Time": "1.5",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlashOut"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "菊理",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1252",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「诶……？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_5088_8AEE967B_8AEE967B",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ゲニン",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_5091_8AEE967B_8AEE967B",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Front",
+      "GroupId": "妖門狐司",
+      "Method": "ShowStand"
+    },
+    {
+      "Position": "Left",
+      "Name": "ビックリはてな",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "下忍",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「忍者！？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Left",
+      "Name": "",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Position": "Right",
+      "Name": "ビックリはてな",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "妖门狐司",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「唔！奇异的光芒……！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Right",
+      "Name": "",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Music": "89B98A79_836F8367838B",
+      "FadeTime": "0",
+      "Method": "PlayMusic"
+    },
+    {
+      "Name": "集中線",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffectBack"
+    },
+    {
+      "StandImage": "stand_0406_8AEE967B_937B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のキクリ",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "菊理",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1253",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「接现力在……\n　风遁·雏夏至！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "838B815B83768CF889CA89B9_9792",
+      "Method": "PlayLoopSound"
+    },
+    {
+      "StandImage": "stand_5088_8AEE967B_8AEE967B",
+      "Position": "Left",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ゲニン",
+      "Method": "ShowStand"
+    },
+    {
+      "StandImage": "stand_5091_8AEE967B_8AEE967B",
+      "Position": "Right",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Front",
+      "GroupId": "妖門狐司",
+      "Method": "ShowStand"
+    },
+    {
+      "Position": "Right",
+      "Name": "ビックリはてな",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Position": "Left",
+      "Motion": "微動",
+      "Option1": "",
+      "Option2": "",
+      "Option3": "",
+      "Method": "MotionStand"
+    },
+    {
+      "Position": "Right",
+      "Motion": "微動",
+      "Option1": "",
+      "Option2": "",
+      "Option3": "",
+      "Method": "MotionStand"
+    },
+    {
+      "ShakePixel": "20",
+      "Time": "1",
+      "Method": "Shake"
+    },
+    {
+      "InTime": "0.3",
+      "OutTime": "0.3",
+      "ColorR": "255",
+      "ColorG": "255",
+      "ColorB": "255",
+      "Method": "ScreenFlash"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "妖门狐司",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「呜啊啊！？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Right",
+      "Name": "",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Position": "Left",
+      "Name": "ビックリはてな",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "下忍",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「忍者————！！」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "Left",
+      "Name": "",
+      "OffsetX": "0",
+      "OffsetY": "0",
+      "Method": "ShowStandEffect"
+    },
+    {
+      "Name": "",
+      "PosX": "640",
+      "PosY": "360",
+      "Time": "0",
+      "Method": "ShowScreenEffectBack"
+    },
+    {
+      "Method": "StopLoopSound"
+    },
+    {
+      "Position": "Left",
+      "Motion": "",
+      "Option1": "",
+      "Option2": "",
+      "Option3": "",
+      "Method": "MotionStand"
+    },
+    {
+      "Position": "Right",
+      "Motion": "",
+      "Option1": "",
+      "Option2": "",
+      "Option3": "",
+      "Method": "MotionStand"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "右ワイプ",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Motion": "WipeRight",
+      "Time": "0.5",
+      "Method": "HideBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "BackImage": "94778C69_8A58814593638EC9836F835892E2_928B",
+      "Motion": "WipeLeft",
+      "Time": "0.5",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Sound": "8CF889CA89B9_9285926E",
+      "Method": "PlaySound"
+    },
+    {
+      "StandImage": "stand_0406_8AEE967B_937B",
+      "Position": "Center",
+      "Motion": "Right",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のキクリ",
+      "Method": "ShowStand"
+    },
+    {
+      "ShakePixel": "10",
+      "Time": "0.5",
+      "Method": "Shake"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "菊理",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1254",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「好……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "热风迎面砸去，怪忍们的行动停了下来。\n菊理就这样抱着我，再次开始奔跑。",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "菊理",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1255",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「力量……接现力正在涌出来……\n　噗叽丸，你做了什么……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_5264_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "ぷぎまる",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "噗叽丸",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "●",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "「噗叽？」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "我只能在菊理怀里歪着脑袋。",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "Time": "0",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0406_8AEE967B_8BC1",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のキクリ",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "菊理",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1256",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「简直就像头领一样……\n　不过怎么可能呢」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "StandImage": "stand_0406_8AEE967B_8AEE967B",
+      "Position": "Center",
+      "Motion": "None",
+      "Time": "0.25",
+      "Z": "Middle",
+      "GroupId": "真夏のキクリ",
+      "Method": "ShowStand"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "菊理",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1257",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「总之是你救了我……谢谢」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "FadeTime": "2",
+      "Method": "StopMusic"
+    },
+    {
+      "Time": "0.25",
+      "Method": "HideMessageWindow"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Position": "All",
+      "Motion": "None",
+      "Time": "0.25",
+      "Method": "HideStand"
+    },
+    {
+      "BackImage": "94778C69_94C4977081458BF3_928B",
+      "Motion": "WipeTop",
+      "Time": "0.5",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.5",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "BackImage": "94778C69_94C4977081458BF3_975B",
+      "Motion": "None",
+      "Time": "0.75",
+      "Method": "ShowBackground"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Time": "0.5",
+      "Method": "Wait"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "菊理",
+      "Name2": "",
+      "Type": "Talk",
+      "Time": "0.25",
+      "VoiceMark": "○",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Voice": "10026_1258",
+      "Method": "VOICE"
+    },
+    {
+      "Message": "「————太阳快落山了。\n　翻山的时候，应该已经入夜了吧……」",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Method": "WaitMotion"
+    },
+    {
+      "Name": "",
+      "Type": "Message",
+      "Time": "0.25",
+      "Voice": "",
+      "Method": "ShowMessageWindow"
+    },
+    {
+      "Message": "她更加用力地抱紧我，\n再次迈步奔跑起来。",
+      "Method": "ShowMessage"
+    },
+    {
+      "Method": "WaitMotion"
+    }
+  ]
+}
