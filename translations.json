@@ -2,7 +2,18 @@
   "version": 1,
   "events": {
     "93": {
-      "chapters": 8
+      "chapters": 8,
+      "title": "跨界潜游！",
+      "chapterTitles": [
+        "阳光邂逅少女",
+        "要不要换上泳装？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
     }
   }
 }
